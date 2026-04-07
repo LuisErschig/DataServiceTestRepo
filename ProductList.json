@@ -15,5 +15,10 @@
       "name": "Tastatur",
       "preis": 49.90
     }
+    {
+      "id": 4,
+      "name": "Webcam HD",
+      "preis": 79.99
+    }
   ]
 }
