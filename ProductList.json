@@ -24,6 +24,11 @@
       "id": 5,
       "name": "Headset",
       "preis": 59.99
+    },
+    {
+      "id": 6,
+      "name": "Bürostuhl",
+      "preis": 169.99
     }
   ]
 }
