@@ -19,6 +19,11 @@
       "id": 4,
       "name": "Webcam HD",
       "preis": 79.99
+    },
+    {
+      "id": 5,
+      "name": "Headset",
+      "preis": 59.99
     }
   ]
 }
