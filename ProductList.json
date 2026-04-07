@@ -1,0 +1,19 @@
+{
+  "produkte": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "preis": 999.99
+    },
+    {
+      "id": 2,
+      "name": "Maus",
+      "preis": 25.50
+    },
+    {
+      "id": 3,
+      "name": "Tastatur",
+      "preis": 49.90
+    }
+  ]
+}
